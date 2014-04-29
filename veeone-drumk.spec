@@ -2,12 +2,12 @@
 
 Summary:	Old-school all-digital drum-kit sampler synthesizer with stereo fx
 Name:		veeone-drumk
-Version:	0.4.0
+Version:	0.4.1
 Release:	1
 License:	GPL
 Group:		X11/Applications/Sound
 Source0:	http://downloads.sourceforge.net/%{rname}/%{rname}-%{version}.tar.gz
-# Source0-md5:	d2be11a7c06d62ad789bc4bf7884e1eb
+# Source0-md5:	48b092e94a4fbf8e8e51bd02d39ed348
 URL:		http://drumkv1.sourceforge.net
 BuildRequires:	QtDBus-devel
 BuildRequires:	QtGui-devel
